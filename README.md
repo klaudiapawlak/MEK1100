@@ -1,12 +1,57 @@
-# MEK1100
-## Feltteori og vektoranalyse
+# MEK1100 – Vector Calculus
 
->MEK1100 gir en innføring i teorien for skalar- og vektorfelt med eksempler fra fluidmekanikk, geofysikk og fysikk. Emnet inneholder gradient og retningsderivert, divergens og virvling, sirkulasjon og fluks, Gauss og Stokes satser, beregning av trykkraft, partikkelderivert og akselerasjon, kartesiske og krumlinjede koordinater, kontinuitetslikninga, Eulers likning, Bernoullis likning, varmelikninga og varmefluks med konveksjon og Fouriers lov. Emnet gir en innføring i visualisering og numerisk beregning av skalar- og vektorfelt på datamaskin.
+This repository contains mandatory assignment completed as part of the MEK1100 course (Vector Calculus) at the University of Oslo.
 
-Etter å ha fullført emnet har du:
-- Ha kunnskap om skalering, betydningen av fysiske enheter og dimensjonsløse parametere
-- Kan regne ut gradient og retningsderivert, divergens og virvling, ekviskalarflater, feltlinjer, kurveintegraler og sirkulasjon, flateintegraler og fluks, trykkraft, partikkelderivert, i kartesiske og krumlinjede koordinater, og har kunnskap om den fysiske tolkningen av disse størrelsene
-- Kan anvende Gauss og Stokes satser
-- Kan anvende potensial og strømfunksjon og har kunnskap om potensialstrømning;
-- Kan bruke datamaskin for å visualisere skalar- og vektorfelt og for å gjøre numeriske beregninger av felt
-- Ha kunnskap om massebevarings- og bevegelseslinkningen for fluider, Bernoullis likning for stasjonær friksjonsfri væskestrøm, varme og temperaturberegninger med konveksjon og Fouriers lov
+MEK1100 gives an introduction to the theory of scalar and vector fields with applications in fluid mechanics, geophysics, and physics. The course covers key mathematical tools such as the gradient, divergence, curl, directional derivative, as well as integral theorems like Gauss’ and Stokes’ theorems. It also includes fundamental physical concepts like pressure force, particle acceleration, conservation of mass, Euler’s and Bernoulli’s equations, and the heat equation. The course introduces students to the numerical computation and visualization of scalar and vector fields using computer tools.
+
+## 🎯 Course Objectives
+- Understand scaling, the role of physical units, and the importance of dimensionless parameters
+- Compute gradient, directional derivative, divergence, curl, field lines, equiscalar surfaces, curve integrals, circulation, surface integrals, and flux
+- Evaluate pressure forces and particle derivatives in both Cartesian and curvilinear coordinates and understand their physical meaning
+- Apply Gauss’ and Stokes’ theorems in physical and mathematical contexts
+- Use potential and stream functions and understand the concept of potential flow
+- Apply the equation of continuity and Euler’s equation for ideal fluid motion
+- Use Bernoulli’s equation to analyze stationary fluid flow
+- Understand and apply the heat equation, including heat transport by convection and Fourier’s law
+- Visualize and perform numerical computations of scalar and vector fields using software tools
+
+## 🔍 Assignment Highlights
+
+**Mandatory Assignment 1:** Calculating probabilities for people exiting an elevator, using conditional probability to find the chance someone forgot to feed a fish, and computing a fair yearly payment for a pension based on life expectancy data. The final task includes Python code to calculate and visualize the results using real mortality statistics.
+
+## 📂 Structure and Organization
+
+```
+MEK1100/
+│
+├── Mandatory Assignment 1/
+│   ├── figures/
+│   │   └── figure1.png
+│   │   └── figure2.png
+│   │   └── figure3.png
+│   ├── README.md
+│   ├── assignment1.tex
+│   ├── assignment1_description.pdf
+│   ├── assignment1_solution.pdf
+│   └── task3.py
+│
+└── README.md
+```
+
+## 🛠 Tools Used
+
+- Python
+- NumPy
+- Matplotlib
+- Pandas
+- SciPy
+- LaTeX
+
+## 🌐 MEK1100 Course Page
+
+[University of Oslo](https://www.uio.no/studier/emner/matnat/math/MEK1100/index-eng.html)
+
+## 👤 Author
+
+Klaudia M. Pawlak  
+[GitHub](https://github.com/klaudiapawlak)
