@@ -25,8 +25,6 @@ This folder contains the first mandatory assignment for the MEK1100 course (Vect
 - Python – for visualizations and calculations
 - NumPy – for numerical operations
 - Matplotlib – for plotting
-- Custom helper functions (`streamfun`, `velfield`) – defined within tasks
-- LaTeX – for compiling the written solution
 
 ## 🚀 How to Run
 
