@@ -15,9 +15,10 @@ MEK1100 gives an introduction to the theory of scalar and vector fields with app
 - Understand and apply the heat equation, including heat transport by convection and Fourier’s law
 - Visualize and perform numerical computations of scalar and vector fields using software tools
 
-## 🔍 Assignment Highlights
+## 📄 Contents
 
-**Mandatory Assignment 1:** Calculating probabilities for people exiting an elevator, using conditional probability to find the chance someone forgot to feed a fish, and computing a fair yearly payment for a pension based on life expectancy data. The final task includes Python code to calculate and visualize the results using real mortality statistics.
+- `assignment1_solution.pdf` –  Final PDF version of the submitted assignment
+- `task3.py` - Python code used for simulations and calculations
 
 ## 📂 Structure and Organization
 
@@ -43,7 +44,7 @@ MEK1100/
 - Python
 - NumPy
 - Matplotlib
-- Pandas
+- Streamfun
 - SciPy
 - LaTeX
 
