@@ -15,10 +15,9 @@ MEK1100 gives an introduction to the theory of scalar and vector fields with app
 - Understand and apply the heat equation, including heat transport by convection and Fourier’s law
 - Visualize and perform numerical computations of scalar and vector fields using software tools
 
-## 📄 Contents
+## 📝 Assignment Overview
 
-- `assignment1_solution.pdf` –  Final PDF version of the submitted assignment
-- `task3.py` - Python code used for simulations and calculations
+Solving projectile motion using scaling and dimensionless variables, analyzing streamlines and vector fields, computing divergence and curl, and comparing numerical and analytical results. The assignment includes both theoretical calculations and Python visualizations of flow and velocity fields.
 
 ## 📂 Structure and Organization
 
@@ -26,15 +25,12 @@ MEK1100 gives an introduction to the theory of scalar and vector fields with app
 MEK1100/
 │
 ├── Mandatory Assignment 1/
-│   ├── figures/
-│   │   └── figure1.png
-│   │   └── figure2.png
-│   │   └── figure3.png
-│   ├── README.md
-│   ├── assignment1.tex
-│   ├── assignment1_description.pdf
-│   ├── assignment1_solution.pdf
-│   └── task3.py
+│ ├── assignment1_solution.pdf
+│ ├── task1c.py
+│ ├── task2b.py
+│ ├── task4a.py
+│ ├── task4b.py
+│ └── README.md
 │
 └── README.md
 ```
@@ -44,9 +40,6 @@ MEK1100/
 - Python
 - NumPy
 - Matplotlib
-- Streamfun
-- SciPy
-- LaTeX
 
 ## 🌐 MEK1100 Course Page
 
@@ -56,3 +49,7 @@ MEK1100/
 
 Klaudia M. Pawlak  
 [GitHub](https://github.com/klaudiapawlak)
+
+---
+
+Feel free to fork or use this notebook for educational purposes.
